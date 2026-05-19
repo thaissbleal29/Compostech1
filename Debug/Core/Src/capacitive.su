@@ -1,0 +1,2 @@
+../Core/Src/capacitive.c:8:9:scaleToPercentage	24	static
+../Core/Src/capacitive.c:24:12:CSMV2_getData	24	static
